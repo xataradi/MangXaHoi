@@ -1,0 +1,3 @@
+Link tải và cài đặt Gephi: https://gephi.org/users/download/
+
+Link tải và cài đặt Jupyter: https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/#:~:text=%20Installing%20Jupyter%20Notebook%20using%20Anaconda%3A%20%201,to%20install%20and%20manage%20software%20packages%2Flibraries...%20More%20
